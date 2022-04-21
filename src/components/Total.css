@@ -1,0 +1,11 @@
+.box {
+    justify-content: space-between;
+    align-items: center;
+    width: 200px;
+    padding: 20px;
+    margin-left: 50px;
+    background-color: #f3eaea;
+}
+
+
+
